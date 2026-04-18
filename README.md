@@ -9,3 +9,7 @@ Pipeline steps:
 - Run Django checks
 - Install frontend dependencies
 - Build React app
+
+
+### Prvious Excercises Repository 
+https://github.com/ghanshyam20/CI-CD/actions
