@@ -10,4 +10,6 @@ Pipeline steps:
 - Install frontend dependencies
 - Build React app
 
-# other things will be updated later
+
+### Prvious Excercises Repository 
+https://github.com/ghanshyam20/CI-CD/actions
