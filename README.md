@@ -9,3 +9,5 @@ Pipeline steps:
 - Run Django checks
 - Install frontend dependencies
 - Build React app
+
+# other things will be updated later
