@@ -12,4 +12,4 @@ Pipeline steps:
 
 
 ### Prvious Excercises Repository 
-https://github.com/ghanshyam20/CI-CD/actions
+https://github.com/ghanshyam20/CI-CD
